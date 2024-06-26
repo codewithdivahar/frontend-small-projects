@@ -24,8 +24,8 @@ We are going to develop a QR code component using HTML, CSS and JavaScript.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/codewithdivahar/frontend-small-projects/tree/main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://codewithdivahar.netlify.app/qr-code-component-main/)
+- Solution URL: [Source Code](https://github.com/codewithdivahar/frontend-small-projects/tree/main/qr-code-component-main)
+- Live Site URL: [Live Site](https://codewithdivahar.netlify.app/qr-code-component-main/)
 
 ## My process
 
